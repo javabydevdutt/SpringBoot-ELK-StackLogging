@@ -1,0 +1,11 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: ELK-StackLogging
+
+logging:
+  file:
+      name: C:/installation/logfile/elkstack.log
+
